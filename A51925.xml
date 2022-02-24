@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maria to Henric, and Henric to Maria, or, The Queen to the King in Holland, and His Majesty's answer two heroical epistles in imitation of the stile and manner of Ovid / written by a Young lady.</title>
+            <author>Young lady.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51925</idno>
+            <idno type="STC">Wing M598</idno>
+            <idno type="STC">ESTC R13331</idno>
+            <idno type="EEBO-CITATION">13586466</idno>
+            <idno type="OCLC">ocm 13586466</idno>
+            <idno type="VID">100552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Maria to Henric, and Henric to Maria, or, The Queen to the King in Holland, and His Majesty's answer two heroical epistles in imitation of the stile and manner of Ovid / written by a Young lady.</title>
+                  <author>Young lady.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Knight ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Wing reel guide incorrectly identifies item as M958.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100552:1"/>
+            <pb facs="tcp:100552:1"/>
+            <p>MARIA to HENRIC, AND HENRIC to MARIA: OR, THE QUEEN to the KING IN HOLLAND, AND HIS Majeſty's Anſwer;</p>
+            <p>TWO <hi>Heroical Epiſtles</hi> IN Imitation of the Stile and Manner of Ovid.</p>
+            <p>Written by a Young Lady.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Knight,</hi> at the <hi>Pope</hi>'s <hi>Head,</hi> in the Lower Walk of the <hi>New Exchange,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100552:2"/>
+            <pb n="1" facs="tcp:100552:2"/>
+            <head>MARIA TO HENRIC.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Inutes grow tedious, time too ſlowly moves,</l>
+               <l>While <hi>Henric</hi>'s abſent, and <hi>Maria</hi> loves.</l>
+               <l>Each Hour's a Week, and ev'ry Day a Year,</l>
+               <l>And ev'ry of <hi>Maria</hi>'s Thoughts a Fear:</l>
+               <l>Not for Thy Faith, my Fears are all for Thee,</l>
+               <l>For that dear Heart that nothing holds but me.</l>
+            </lg>
+            <lg>
+               <l>May I demand, if Love e'er taught Thee yet,</l>
+               <l>To look on lazy Moments with Regret?</l>
+               <lg>
+                  <l>If Love has taught Thee his Account of Time?</l>
+                  <l>If <hi>Henric</hi>'s Love be ſuch a Love as mine?</l>
+                  <l>If ſo, my Sighs are juſtify'd by thine;</l>
+               </lg>
+               <l>
+                  <pb n="2" facs="tcp:100552:3"/>
+If ſo, you cannot frown, and cannot chuſe,</l>
+               <l>But all I ſigh, and all I ſay excuſe;</l>
+               <l>And wiſh, and ſpeak, and doubt, and act with me,</l>
+               <l>If Love like mine in a Male Breaſt can be.</l>
+               <l>Female our Souls, all Maſculine our Love,</l>
+               <l>Strong is your Senſe, feebly your Paſſions move.</l>
+               <lg>
+                  <l>Here ſhrunk my Soul, till my kind careleſs Pen</l>
+                  <l>Run on to <hi>Henric</hi>'s Name—I liv'd agen.</l>
+                  <l>
+                     <hi>Henric</hi> more Noble than the reſt of Men!</l>
+               </lg>
+               <l>O happy Thought! O bleſt <hi>Maria</hi>'s Fate!</l>
+               <l>He loves, does all above the common Rate.</l>
+            </lg>
+            <lg>
+               <l>You bufy'd yet with all thoſe great Affairs,</l>
+               <l>Counſels, Debates, and Policy of Wars;</l>
+               <l>Safety of Kingdoms, all the Mighty Things,</l>
+               <l>Worthy my <hi>Henric,</hi> fit alone for Kings.</l>
+               <l>This ſome Relief to painful Abſence gives,</l>
+               <l>Diverts the Pangs wherewith <hi>Maria</hi> ſtrives.</l>
+            </lg>
+            <lg>
+               <l>While You the foaming untam'd <hi>Gallia</hi> chaſe,</l>
+               <l>And all Your Snares around the Tigreſs place;</l>
+               <l>Pleas'd thus to ſee her all at Your Command,</l>
+               <l>Whene'er You pleaſe to move Your Conqu'ring Hand:</l>
+               <l>Suffer not fond <hi>Maria</hi> to complain,</l>
+               <l>That You forget Your own dear am'rous Chain.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:100552:3"/>
+               <l>On unfledg'd Victries in the Neſt You ſmile,</l>
+               <l>And great Deſigns Your Love and Hours beguile:</l>
+               <l>Alone my buſineſs, and my all is You,</l>
+               <l>My ſelf, my Wiſhes, all I have to do;</l>
+               <l>Your Name alone perſwades me to endure;</l>
+               <l>That gives the Wound, and that applies the Cure:</l>
+               <l>But there's no Balſom priz'd by me above</l>
+               <l>The bright Idea of Your Noble Love.</l>
+            </lg>
+            <lg>
+               <l>But if Your Love (pardon the dubious Thought)</l>
+               <l>If You the gen'rous Flame from <hi>Belgia</hi> brought;</l>
+               <l>Why could it not perſwade You to delay?</l>
+               <l>Why could not parting Tears induce Your ſtay?</l>
+               <l>How cruel ſhort the pleaſing Interview!</l>
+               <l>Short as 'twas ſweet, as ſhort diſguſtful too.</l>
+               <lg>
+                  <l>Why was I born ſo Great, or You ſo Brave?</l>
+                  <l>Were You leſs ſo, or were I but a Slave,</l>
+                  <l>My ſervile Conſort I in view might have?</l>
+               </lg>
+               <lg>
+                  <l>Nor think he's now engag'd, a Conqu'rour now,</l>
+                  <l>Dying, perhaps, with Vict'ry on his Brow,</l>
+                  <l>Wounded, or ſick, or e'en I know not how.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Loſt <hi>Mons,</hi> the worthy Cauſe, and <hi>Britiſh</hi> Iſle,</l>
+               <l>Forgive the Queen, that on Your Loſs could ſmile;</l>
+               <lg>
+                  <pb n="4" facs="tcp:100552:4"/>
+                  <l>Th' unwelcome News no ſooner reach'd my Ear,</l>
+                  <l>But ſtraight I knew my <hi>Henric</hi> was not there:</l>
+                  <l>No Towns are ever loſt when he's too near.</l>
+               </lg>
+               <l>You often come indeed too near Your Foes,</l>
+               <l>Your Breaſt too oft, too daringly expoſe;</l>
+               <l>You are too much a Conquerour for me,</l>
+               <l>I love You better than the Victory:</l>
+               <l>Yet I love Conqueſt, and can wiſh it too;</l>
+               <l>But why, methinks, muſt all be done by You?</l>
+               <l>Let others take the Danger; Let them ſtake</l>
+               <l>Their Lives, and let them <hi>Henric</hi>'s Glory take—</l>
+               <lg>
+                  <l>Ha! What—What would my fondling Paſſion do?</l>
+                  <l>Oh, that it might be Great! as Great as now;</l>
+                  <l>And yet incapable to wrong You too!</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>What's State, Reſpect, or what's a Crown to me?</l>
+               <l>Poor Joys!—How poor's a Queen depriv'd of Thee?</l>
+               <l>My very Dreams, the ſofteſt Bliſs I knew,</l>
+               <l>My Thoughts, my Dreams, are ſtill employ'd with You,</l>
+               <l>Pleaſing at firſt, now ſerve t'afflict me too.</l>
+               <l>My Bed I with ſad Apprehenſions ſhake,</l>
+               <l>With ſudden Shrieks and Cries I ſtart, and wake:</l>
+               <l>Attendants and officious Guards ruſh in,</l>
+               <l>When nothing but her <hi>Henric</hi> wants the Queen;</l>
+               <lg>
+                  <l>Shipwrack'd with Doubts, and almoſt ſunk by fear,</l>
+                  <l>Leaſt ſwelling <hi>Neptune</hi> ſo embrace my Dear,</l>
+                  <l>E'en You that took of me ſo little Care:</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:100552:4"/>
+               <l>You that expos'd in a ſmall Shallop lay,</l>
+               <l>Defying <hi>Boreas</hi> and a Raging Sea;</l>
+               <l>By cruel, deadly Sheets of Ice enclos'd;</l>
+               <l>Hunger, and bold obtruding Death oppos'd:</l>
+               <l>Yet Your Prophetic Valour could inſpire</l>
+               <l>Your glowing Breaſt with ſuch Heroic Fire;</l>
+               <lg>
+                  <l>The Shell, that <hi>Coeſar and his Fortunes</hi> bore,</l>
+                  <l>Was deſtin'd to attain, and reach'd the Shore;</l>
+                  <l>Can You ſuppoſe with me to periſh more?</l>
+               </lg>
+               <l>Ceaſe not to fear (ſaid You) but bluſh to think,</l>
+               <l>That <hi>Henric and his Fortunes</hi> here muſt ſink.</l>
+               <l>Ye Gods!—The Gods were with Thee, and they ſaw:</l>
+               <l>Theſe words were follow'd with ſudden a Thaw:</l>
+               <l>And kind Heav'n caſt Thee on thy Native Shore,</l>
+               <l>When nothing leſs was hop'd, You wiſh'd no more.</l>
+            </lg>
+            <lg>
+               <l>If I, of a more cow'rdly Sex, had ſeen</l>
+               <l>What mighty Perils ſhut my <hi>Henric</hi> in;</l>
+               <l>Away had flown my haſty tim'rous Soul:</l>
+               <l>Nor could that Prophecie, ſo ſpoke, recall</l>
+               <l>My fleeting Breath, reſtoring as it was,</l>
+               <l>'T had been, to dying me, of little Force.</l>
+               <lg>
+                  <l>The fearful Tale, e'en while I knew You ſafe,</l>
+                  <l>A ſtrange cold ſhivering to my Senſes gave,</l>
+                  <l>Methought, and wrapt me in a chilly Wave.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:100552:5"/>
+               <l>Be kind, my Love, make haſte—Be rather flow,</l>
+               <l>And be my kinder Love in being ſo.</l>
+               <l>Be kind, and cautious, let me not ſuſtain</l>
+               <l>Thoſe Dyings, and thoſe Agonies again.</l>
+               <lg>
+                  <l>While I implore ſoft Winds, entreat the Sea</l>
+                  <l>To be as gentle as my Sighs for Thee,</l>
+                  <l>And careful as <hi>Maria</hi>'s Thoughts can be;</l>
+               </lg>
+               <l>Safe as Thy Arms, ſerene as thoſe You give</l>
+               <l>Your great Protection to, and wiſh to live.</l>
+               <l>Live You <hi>Maria</hi>'s, ſhe that lives for You.</l>
+               <l>All Yours—Adiou, my Royal Love, Adieu.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:100552:5"/>
+            <head>The Anſwer. HENRIC TO MARIA.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Ealth to <hi>Maria;</hi> may She ever be</l>
+               <l>Blefs'd by the Gods, as She's held dear byome.</l>
+               <l>This Letter bears You, and demands a Kiſs,</l>
+               <l>While I, at diſtance, emulate the Blifs.</l>
+               <l>I had Your Lines which ſeem'd, me thought, to ſmile,</l>
+               <l>And as I read, I ſaw You in the Stile;</l>
+               <lg>
+                  <l>Gentle, endearing, as You us'd to be;</l>
+                  <l>I had, methought, Your ſelf in ſome Degree;</l>
+                  <l>Yet a faint Copy of Thy Mind and Thee.</l>
+               </lg>
+               <l>
+                  <pb n="8" facs="tcp:100552:6"/>
+But as ſo far 'twas Yours, no Joys could here</l>
+               <l>So great, approach my Soul, or half ſo de<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>And yet, methinks, I'm almoſt angry too,</l>
+                  <l>To have my Love ſuſpected thus by You,</l>
+                  <l>As not a Paſſion great like Yours, nor true.</l>
+               </lg>
+               <l>Will You believe me? Or how muſt I ſwear,</l>
+               <l>My Paſſion's great, as You are kind and fair?</l>
+               <l>Oh, You miſtake indeed! our Paſſions move</l>
+               <l>With all the Tenderneſs of Female Love.</l>
+               <l>Your Sex their Flames more artfully expreſs,</l>
+               <l>While ours, pent in our Boſoms, ſcorch no leſs.</l>
+               <l>Reproach us not, we cannot love like you,</l>
+               <l>Becauſe we know not how to ſay we do.</l>
+            </lg>
+            <lg>
+               <l>Your Letter ſeems to chide I would be gone,</l>
+               <l>And leave <hi>Maria,</hi> and her Charms ſo ſoon:</l>
+               <l>Thoſe were enough indeed t'oblige my ſtay,</l>
+               <l>But ſuch Affairs as mine forbid delay;</l>
+               <l>'T would blaſt my Farne, and <hi>Mars</hi> himſelf would frown</l>
+               <l>And even bluſh to hear a Gen'ral own,</l>
+               <lg>
+                  <l>He left his Joys, and Eaſe unwillingly;</l>
+                  <l>And when oblig'd t'approach the Enemy,</l>
+                  <l>It looks as if he were afraid to die.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But You, my gentle, kind, my boſom Foe,</l>
+               <l>Will urge me to offend my Honour ſo,</l>
+               <l>
+                  <pb n="9" facs="tcp:100552:6"/>
+Too tenderly to be deny'd You preſs;</l>
+               <l>But ſhall a ſtubborn Martial Man confeſs</l>
+               <l>
+                  <hi>Maria</hi> was ſo charming, and ſo kind,</l>
+               <l>He went, and fondly left his Heart behind?</l>
+               <l>Oh, You'll reduce me to confeſſing too,</l>
+               <l>I hold not Conqueſt half ſo dear as You;</l>
+               <l>And hate the Field, the Glorious—Scene of War,</l>
+               <l>And all becauſe <hi>Maria</hi> is not there.</l>
+               <l>What is't You make me ſay? What make me do?</l>
+               <l>But would <hi>Mars</hi> bluſh to be Your Captive ſo?</l>
+               <l>The great, the Gods—they nothing knew above,</l>
+               <l>Or more Heroic than to fight and love;</l>
+               <l>No Demy-God, or Hero, could be ſo,</l>
+               <l>Unleſs he could be prov'd a Lover too.</l>
+            </lg>
+            <lg>
+               <l>Proud as I am of the bright Chains I wear,</l>
+               <l>My Vows are jointly made to Love and War.</l>
+               <l>Love without Glory is too poor, too mean,</l>
+               <l>Unworthy <hi>Henric</hi> and beneath the <hi>Queen.</hi>
+               </l>
+               <l>Combat, and not with gen'rous Love conjoin'd,</l>
+               <l>Is brutiſh, and beneath a Manly Mind.</l>
+            </lg>
+            <lg>
+               <l>If You love me—Love me, I know You do,</l>
+               <l>And You're oblig'd to love my Honour too;</l>
+               <l>You have been valiant, and with me could dare:</l>
+               <l>But how's Your Soul contracted by Your Fear?</l>
+               <l>
+                  <pb n="10" facs="tcp:100552:7"/>
+Can You not be <hi>Maria</hi> fair, and kind,</l>
+               <l>And yet retain the Beauties of Your Mind;</l>
+               <l>That Fortitude which ſo ſublimely ſoar'd</l>
+               <l>Above the Vulgar, and I ſo ador'd?</l>
+               <l>Shall Your great Soul for my ſmall Danger ſhake,</l>
+               <l>When ſacred Fanes, and Altars are at Stake?</l>
+               <lg>
+                  <l>How is Your Courage fled? Love me not ſo,</l>
+                  <l>You ſeem to wiſh me as my <hi>Gallic</hi> Foe,</l>
+                  <l>He'd have me always ſtay at home with You.</l>
+               </lg>
+            </lg>
+            <lg>
+               <lg>
+                  <l>No, No, You love me not above my Fame,</l>
+                  <l>Your Softneſs clouds the Luſtre of Your Flame,</l>
+                  <l>As bright as ever 'twas, and ſtill the ſame.</l>
+               </lg>
+               <l>Juſt ſo my Love's eclips'd by rude Affairs;</l>
+               <l>Such are the <hi>Rheſian</hi> to the <hi>Paphian</hi> Wars.</l>
+               <lg>
+                  <l>If Softneſs can admit Sublimity,</l>
+                  <l>As inſtanc'd gloriouſly are both in Thee,</l>
+                  <l>Let me a Lover and a Soldier be;</l>
+               </lg>
+               <l>Your Tenderneſs had made me doubt You brave,</l>
+               <l>For which I ask the pardon I muſt have,</l>
+               <l>Becauſe I find I was ſuſpected too,</l>
+               <l>You ſaw me rough, and thought I lov'd not You.</l>
+               <l>Thus we make Judgments from the upper Coat,</l>
+               <l>
+                  <hi>And doubt, and talk, and ſigh,</hi> and all by rote.</l>
+               <l>Diſguis'd we rudely may a Prince intreat,</l>
+               <l>Becauſe in that Array he ſeem'd not great.</l>
+               <l>
+                  <pb n="11" facs="tcp:100552:7"/>
+Should we not then be well aſſur'd and know</l>
+               <l>His Quality before we treat him ſo?</l>
+               <l>If we conſider'd well, and look'd within,</l>
+               <l>The ſeeming Beggar might be found a King.</l>
+               <l>Lord of my Paſſions was my Love, when You</l>
+               <l>Queſtion'd, and thought it ev'n beggarly too.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>But Oh! I long to view thoſe Charms again,</l>
+                  <l>That Face which mad-brain'd Multitudes can tame,</l>
+                  <l>Monſters as fierce, cruel as th' <hi>African.</hi>
+                  </l>
+               </lg>
+               <l>I know <hi>Maria</hi> has no more to do,</l>
+               <l>Than look to ſtrike a Malefactour thrô;</l>
+               <l>But you've look'd all into a loving ſo,</l>
+               <l>That none will contradict Your Will they know.</l>
+               <l>
+                  <hi>Britannia</hi> under You's a happy State;</l>
+               <l>Rejoice, <hi>Britannia,</hi> in ſo bleſs'd a Fate;</l>
+               <l>So 'twas <hi>Eliſa</hi> govern'd you; and ſo</l>
+               <l>My Queen, You, ſweet <hi>Maria</hi> govern too.</l>
+               <l>Your Eyes Command, all greedily fulfill,</l>
+               <l>What e'er th'injoin, that's ever nothing ill.</l>
+               <l>Your Eyes are both our Sceptres, I the Sword</l>
+               <l>Muſt brandiſh here, while You there give the Word;</l>
+               <lg>
+                  <l>And when You pleaſe to add a Smile or Frown,</l>
+                  <l>The Wretch that hangs on Your melodious Tongue,</l>
+                  <l>Is either ſtrangely bleſs'd, or quite undone.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:100552:8" rendition="simple:additions"/>
+               <l>What a mad Caprice; of ſome <hi>Gallic</hi> Fool,</l>
+               <l>Was't to exclude their Women all from Rule?</l>
+               <l>Not <hi>Lewis,</hi> he was fair, and wiſe he's too,</l>
+               <l>Yet never govern'd with his Eyes like You.</l>
+               <lg>
+                  <l>Oh, had he now but ſuch a Friend as mine,</l>
+                  <l>He might go join the <hi>Turk,</hi> his old Deſign,</l>
+                  <l>And leave his <hi>France</hi> to th' Management of's Queen.</l>
+               </lg>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Oh, how I long to ſee my Love appear,</l>
+                  <l>As oft Sh'as done, like ſome auſpicious Star,</l>
+                  <l>And by her Glories chear the Men of War.</l>
+               </lg>
+               <l>Which all in Ecſtaſie when-e'er Thou'rt ſeen,</l>
+               <l>With eager Voices cry, <hi>Long live the Queen.</hi>
+               </l>
+               <l>Oh, could She know; could I but here impart,</l>
+               <l>What haſty Thoughts and Wiſhes crowd my Heart;</l>
+               <l>She could not think her <hi>Henric</hi> would be long,</l>
+               <l>Purſuing thoſe Motives to a quick Return:</l>
+               <l>Till then, <hi>Maria,</hi> calm Your troubl'd Mind,</l>
+               <l>And let this Paper <hi>Nuncio</hi> welcome find.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100552:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
